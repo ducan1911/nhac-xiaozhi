@@ -22,5 +22,37 @@
     "category": "song",
     "age": "all",
     "path": "songs/tayduky.mp3"
+  },
+  {
+    "id": "vn04",
+    "name": "Về Bên Anh",
+    "tags": ["nhạc Việt", "Về Bên Anh"],
+    "category": "song",
+    "age": "all",
+    "path": "songs/VeBenAnh.mp3"
+  },
+  {
+    "id": "vn05",
+    "name": "Quốc Ca Việt Nam",
+    "tags": ["nhạc Việt", "Quốc Ca Việt Nam"],
+    "category": "song",
+    "age": "all",
+    "path": "songs/QuocCaVietNam.mp3"
+  },
+  {
+    "id": "vn06",
+    "name": "Trường Trung Cấp Kinh Tế Kỹ Thuật Thành Phố Cần Thơ",
+    "tags": ["nhạc Việt", "Cần Thơ", "Trường Trung Cấp Kinh Tế Kỹ Thuật Thành Phố Cần Thơ"],
+    "category": "song",
+    "age": "all",
+    "path": "songs/TruongTrungCapKinhTeKyThuatThanhPhoCanTho.mp3"
+  },
+  {
+    "id": "vn07",
+    "name": "Mắt Bão",
+    "tags": ["nhạc Việt", "Mắt Bão"],
+    "category": "song",
+    "age": "all",
+    "path": "songs/MatBao.mp3"
   }
 ]
